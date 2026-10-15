@@ -1,0 +1,18 @@
+package: community.lazycat.app.piclite
+version: 2.0.0
+name: PicLite 图轻
+description: 隐私优先的图片与 GIF 压缩工具，本地处理不上传
+min_os_version: 1.5.0
+homepage: https://github.com/amiaoapp/PicLite
+author: amiaoapp
+license: GPL-3.0
+locales:
+  zh:
+    name: PicLite 图轻
+    description: 隐私优先的图片与 GIF 压缩工具，本地处理不上传
+  zh_CN:
+    name: PicLite 图轻
+    description: 隐私优先的图片与 GIF 压缩工具，本地处理不上传
+  en:
+    name: PicLite
+    description: Privacy-first image and GIF compression, processed locally
