@@ -25,7 +25,7 @@ images:
     delivery:
       mode: mirror
       image_template: 'ghcr.1ms.run/amiaoapp/piclite:{tag}'
-    require_digest_match: true
+      require_digest_match: true
 
 stores:
   official:
