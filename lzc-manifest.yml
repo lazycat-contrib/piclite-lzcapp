@@ -5,10 +5,10 @@ application:
   upstreams:
     - location: /
       backend: http://piclite:3456/
-
 services:
   piclite:
     # ghcr.io/amiaoapp/piclite:2.0.0
+    # upstream: ghcr.io/amiaoapp/piclite:2.0.0
     image: ghcr.1ms.run/amiaoapp/piclite:2.0.0
     environment:
       - NODE_ENV=production
