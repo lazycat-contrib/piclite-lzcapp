@@ -8,10 +8,10 @@ author: amiaoapp
 license: GPL-3.0
 locales:
   zh:
-    name: PicLite 图轻
+    name: 图轻
     description: 隐私优先的图片与 GIF 压缩工具，本地处理不上传
   zh_CN:
-    name: PicLite 图轻
+    name: 图轻
     description: 隐私优先的图片与 GIF 压缩工具，本地处理不上传
   en:
     name: PicLite
