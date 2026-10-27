@@ -8,8 +8,8 @@ application:
 services:
   piclite:
     # ghcr.io/amiaoapp/piclite:2.0.0
-    # upstream: ghcr.io/amiaoapp/piclite:2.0.0
-    image: ghcr.1ms.run/amiaoapp/piclite:2.0.0
+    # upstream: ghcr.io/amiaoapp/piclite:2.0.2
+    image: ghcr.1ms.run/amiaoapp/piclite:2.0.2
     environment:
       - NODE_ENV=production
       - HOST=0.0.0.0
