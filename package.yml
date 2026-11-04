@@ -1,5 +1,5 @@
 package: community.lazycat.app.piclite
-version: 2.1.2
+version: 2.1.3
 name: PicLite
 description: Privacy-first image and GIF compression, processed locally
 min_os_version: 1.5.0
